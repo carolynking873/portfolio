@@ -49,7 +49,7 @@ header nav ul li a {
     margin: 0 10px 0 0;
     font-weight: lighter;
     font-size: 22px;
-    padding: 0 20px 5px 0;
+    padding: 0 10px 5px 10px;
     color: #99e6e6;
     border-bottom: 4px solid #99e6e6;
 }
