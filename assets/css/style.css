@@ -14,7 +14,6 @@ header {
     background-color: #2e3338;
     position: relative;
     height: 100px;
-    width: 85%;
 }
 
 header h1 {
@@ -63,7 +62,6 @@ header nav ul li a {
     background-position: center;
     position: relative;
     margin: 0 0 -30px 0;
-    width: 85%;
 }
 
 .hero-subtitle {
@@ -82,11 +80,12 @@ header nav ul li a {
 .intro {
     margin: 0 0 -140px 0;
     width: 85%;
+    
 }
 .section-title {
     color: #2e3338;
     font-size: 50px;
-    width: 17%;
+    width: 18%;
     text-align: right;
     border-right: 3px solid #2e3338;
     padding: 0px 10px 0 0;
@@ -251,6 +250,38 @@ a {
 }
 
 /* Work Style End */
+
+/* Contact Style Start */
+.contact-section {
+    color: #2e3338;
+    font-size: 50px;
+    width: 15%;
+    text-align: right;
+    border-right: 3px solid #2e3338;
+    padding: 0px 10px 0 0;
+    margin: -525px 20px 500px 0;
+}
+
+.div a {
+    text-decoration: none;
+}
+
+.contact-options {
+    float: right;
+    margin: -565px 270px 0 0;
+}
+
+.contact-options ul li {
+    display: inline;
+}
+
+.contact-options ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 20px;
+    border-bottom: 3px solid #2e3338;
+    padding: 0 0 3px 0;
+}
 
 section {
     padding: 50px;
