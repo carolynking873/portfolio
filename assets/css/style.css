@@ -78,20 +78,15 @@ header nav ul li a {
 /* Hero Style End */
 
 /* About Style Start */
-.intro {
-    margin: 0 0 -140px 0;
-    width: 85%;
-    
-}
 .section-title {
     color: #2e3338;
     font-size: 50px;
     width: 18%;
     text-align: right;
     border-right: 3px solid #2e3338;
-    padding: 0px 10px 0 0;
-    margin: 0 20px 60px 0;
-    display: inline-block;
+    padding: 0 10px 0 0;
+    margin: 0;
+    width: 20%;
 }
 
 .primary-border {
@@ -99,21 +94,12 @@ header nav ul li a {
 }
 
 .intro p {
-    display: inline;
-    margin: -255px 0 0 -60px;
-    font-weight: lighter;
-    padding: 40px 0 0 275px;
-    float: left;
-    width: 100%;
-    line-height: 1.5;
-    font-size: 14px;
+    padding: 0 0 0 300px;
 }
 /* About Style End */
 
 /* Work Style Start */
-.entries {
-    width: 85%;
-}
+
 
 .secondary-border {
     height: 590px;
@@ -315,4 +301,8 @@ a {
 
 section {
     padding: 50px;
+}
+
+.flex-row {
+    display: flex;
 }
