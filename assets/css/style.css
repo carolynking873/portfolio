@@ -79,3 +79,96 @@ header nav ul li a {
     margin: 0;
 }
 /* Hero Style End */
+
+.section-title {
+    font-size: 48px;
+    color: #2e3338;
+    border-right: 3px solid;
+    padding-right: 10px;
+    text-align: right;
+    margin: 0;
+    width: 15%;
+}
+
+.primary-border {
+    border-color: #2e3338;
+}
+
+.intro p {
+    line-height: 1.7;
+    color: #2e3338;
+    width: 65%;
+    font-size: 15px;
+    margin: -105px 0 0 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section {
+    padding: 60px;
+}
+
+.flex-row {
+    display: flex;
+}
+
+
+  
+  
+    
+
+
+
+
+
+    
