@@ -161,6 +161,34 @@ header nav ul li a {
 /* Work Style End */
 
 
+/* Contact Style Start */
+.contact-section {
+    padding: 20px 35px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: -90px 0 0 155px;
+}
+
+.contact-section a {
+    color: #2e3338;
+    text-decoration: underline;
+}
+
+.contact-section ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    list-style: none;
+}
+
+.contact-section ul li a {
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.25vw;
+}
+
+
 
 
 
