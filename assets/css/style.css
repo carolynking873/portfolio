@@ -161,7 +161,7 @@ header nav ul li a {
 /* Work Style End */
 
 
-/* Contact Style Start */
+/* Contact/Resume Style Start */
 .contact-section {
     padding: 20px 35px;
     justify-content: space-between;
@@ -169,12 +169,21 @@ header nav ul li a {
     margin: -90px 0 0 155px;
 }
 
-.contact-section a {
+.resume-section {
+    padding: 20px 35px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: -55px 0 0 155px;
+}
+
+.contact-section a,
+.resume-section a {
     color: #2e3338;
     text-decoration: underline;
 }
 
-.contact-section ul {
+.contact-section ul,
+.resume-section ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -182,11 +191,13 @@ header nav ul li a {
     list-style: none;
 }
 
-.contact-section ul li a {
+.contact-section ul li a,
+.resume-section ul li a {
     padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.25vw;
 }
+/* Contact Style End */
 
 
 
