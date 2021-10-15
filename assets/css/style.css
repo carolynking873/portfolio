@@ -63,7 +63,7 @@ header nav ul li a {
     display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
-    align-items: flex-end;
+    align-items: flex-start;
 }
 
 .subtitle {
@@ -197,11 +197,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 1.25vw;
 }
-/* Contact Style End */
-
-
-
-
+/* Contact/Resume Style End */
 
 section {
     padding: 60px;
@@ -209,6 +205,21 @@ section {
 
 .flex-row {
     display: flex;
+}
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+   
+}
+
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+    
 }
 
 
