@@ -123,6 +123,10 @@ header nav ul li a {
     width: 100%;
 }
 
+.piece img:hover {
+    opacity: 0.2;
+}
+
 .work-description {
     padding: 0px;
     line-height: 1.3;
